@@ -1,0 +1,24 @@
+Movies that were in the train set:
+	Movie name: Inherit the Wind (1960), Truth rank value: 5, Predicted rank by the model: 4.604399461143162
+	Movie name: Wings of Desire (Der Himmel über Berlin) (1987), Truth rank value: 3, Predicted rank by the model: 3.605919316968131
+	Movie name: Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996), Truth rank value: 4, Predicted rank by the model: 4.145570258023004
+	Movie name: Army of Darkness (1993), Truth rank value: 4, Predicted rank by the model: 4.330838392930584
+	Movie name: Lawnmower Man, The (1992), Truth rank value: 4, Predicted rank by the model: 4.025452803696492
+	Movie name: Little Women (1994), Truth rank value: 5, Predicted rank by the model: 4.29990997887101
+	Movie name: Billy's Hollywood Screen Kiss (1997), Truth rank value: 5, Predicted rank by the model: 4.460757583355872
+	Movie name: Princess Bride, The (1987), Truth rank value: 2, Predicted rank by the model: 4.066759794812581
+	Movie name: Brazil (1985), Truth rank value: 5, Predicted rank by the model: 4.476506642264953
+	Movie name: Kramer Vs. Kramer (1979), Truth rank value: 5, Predicted rank by the model: 4.232135675469208
+	Movie name: Search for One-eye Jimmy, The (1996), Truth rank value: 4, Predicted rank by the model: 4.160507129161371
+	Movie name: Something for Everyone (1970), Truth rank value: 4, Predicted rank by the model: 3.969249082287112
+	Movie name: Mad Max 2 (a.k.a. The Road Warrior) (1981), Truth rank value: 4, Predicted rank by the model: 3.852462750279261
+	Movie name: King Kong (1976), Truth rank value: 4, Predicted rank by the model: 4.052756403060963
+	Movie name: Jaws 2 (1978), Truth rank value: 5, Predicted rank by the model: 4.483046059292295
+	Movie name: Prince of Tides, The (1991), Truth rank value: 1, Predicted rank by the model: 3.4123435902263437
+	Movie name: Withnail and I (1987), Truth rank value: 5, Predicted rank by the model: 4.426763053757205
+	Movie name: From Russia with Love (1963), Truth rank value: 5, Predicted rank by the model: 4.167789806236731
+	Movie name: Braindead (1992), Truth rank value: 5, Predicted rank by the model: 4.147312680771547
+_______________________________________________________________
+Movies that were in the test set:
+	Movie name: Kalifornia (1993), Truth rank value: 4, Predicted rank by the model: 3.592372793029356
+	Movie name: Trekkies (1997), Truth rank value: 5, Predicted rank by the model: 4.278225102019132

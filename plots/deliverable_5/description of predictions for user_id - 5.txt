@@ -1,0 +1,197 @@
+Movies that were in the train set:
+	Movie name: Siege, The (1998), Truth rank value: 4, Predicted rank by the model: 3.6230560797892144
+	Movie name: Double Life of Veronique, The (La Double Vie de Véronique) (1991), Truth rank value: 5, Predicted rank by the model: 3.71735037696024
+	Movie name: Cry, the Beloved Country (1995), Truth rank value: 3, Predicted rank by the model: 3.202605290746056
+	Movie name: I Still Know What You Did Last Summer (1998), Truth rank value: 5, Predicted rank by the model: 2.9971172860833803
+	Movie name: Jerry Maguire (1996), Truth rank value: 4, Predicted rank by the model: 3.281559976091814
+	Movie name: Indecent Proposal (1993), Truth rank value: 2, Predicted rank by the model: 2.6932386131606942
+	Movie name: Supercop (1992), Truth rank value: 2, Predicted rank by the model: 2.520808782143262
+	Movie name: Mrs. Dalloway (1997), Truth rank value: 3, Predicted rank by the model: 3.340752943611426
+	Movie name: Carpool (1996), Truth rank value: 4, Predicted rank by the model: 3.3713561588854954
+	Movie name: I Love You, I Love You Not (1996), Truth rank value: 3, Predicted rank by the model: 3.095895283034608
+	Movie name: Body Heat (1981), Truth rank value: 1, Predicted rank by the model: 2.7752176300292706
+	Movie name: Brokedown Palace (1999), Truth rank value: 4, Predicted rank by the model: 2.9912169574880565
+	Movie name: Next Karate Kid, The (1994), Truth rank value: 1, Predicted rank by the model: 3.005646408407423
+	Movie name: Perfect World, A (1993), Truth rank value: 4, Predicted rank by the model: 3.317899640559843
+	Movie name: Poetic Justice (1993), Truth rank value: 4, Predicted rank by the model: 3.2403085635057973
+	Movie name: Dead Presidents (1995), Truth rank value: 4, Predicted rank by the model: 3.574428421316946
+	Movie name: Parent Trap, The (1998), Truth rank value: 1, Predicted rank by the model: 2.5730346122504733
+	Movie name: Dreaming of Joseph Lees (1998), Truth rank value: 5, Predicted rank by the model: 4.1319720787487295
+	Movie name: Pocahontas (1995), Truth rank value: 3, Predicted rank by the model: 3.293693836354206
+	Movie name: Wild Wild West (1999), Truth rank value: 4, Predicted rank by the model: 3.655056362903936
+	Movie name: Panther (1995), Truth rank value: 4, Predicted rank by the model: 3.917737460359497
+	Movie name: Institute Benjamenta, or This Dream People Call Human Life (1995), Truth rank value: 4, Predicted rank by the model: 3.3097896521649313
+	Movie name: Quiz Show (1994), Truth rank value: 3, Predicted rank by the model: 3.2270528913417134
+	Movie name: Goodbye, 20th Century (Zbogum na dvadesetiot vek) (1998), Truth rank value: 2, Predicted rank by the model: 3.3585619363154393
+	Movie name: True Crime (1999), Truth rank value: 4, Predicted rank by the model: 2.8714682058645886
+	Movie name: Rob Roy (1995), Truth rank value: 2, Predicted rank by the model: 3.022882887911665
+	Movie name: Disclosure (1994), Truth rank value: 3, Predicted rank by the model: 2.6618296920610924
+	Movie name: Shaft (1971), Truth rank value: 2, Predicted rank by the model: 3.616114172265653
+	Movie name: Dolores Claiborne (1994), Truth rank value: 3, Predicted rank by the model: 3.017545806897123
+	Movie name: Renaissance Man (1994), Truth rank value: 4, Predicted rank by the model: 3.380492249482079
+	Movie name: Harriet the Spy (1996), Truth rank value: 2, Predicted rank by the model: 3.7421605731649947
+	Movie name: Guardian Angel (1994), Truth rank value: 5, Predicted rank by the model: 3.918599331804791
+	Movie name: Lamerica (1994), Truth rank value: 2, Predicted rank by the model: 3.031416748478501
+	Movie name: Paris Is Burning (1990), Truth rank value: 2, Predicted rank by the model: 2.6332605061282632
+	Movie name: One Flew Over the Cuckoo's Nest (1975), Truth rank value: 5, Predicted rank by the model: 3.886571203171693
+	Movie name: Getting Away With Murder (1996), Truth rank value: 1, Predicted rank by the model: 2.43970557147169
+	Movie name: World Is Not Enough, The (1999), Truth rank value: 3, Predicted rank by the model: 3.0871631256402274
+	Movie name: Speechless (1994), Truth rank value: 4, Predicted rank by the model: 2.579948657475507
+	Movie name: Rugrats Movie, The (1998), Truth rank value: 3, Predicted rank by the model: 2.58034384077953
+	Movie name: Arsenic and Old Lace (1944), Truth rank value: 2, Predicted rank by the model: 2.8171834316100357
+	Movie name: Home Page (1999), Truth rank value: 5, Predicted rank by the model: 3.70397620610746
+	Movie name: Faculty, The (1998), Truth rank value: 5, Predicted rank by the model: 3.33611022570878
+	Movie name: Joe Gould's Secret (2000), Truth rank value: 1, Predicted rank by the model: 2.125201920629863
+	Movie name: Mighty Joe Young (1998), Truth rank value: 3, Predicted rank by the model: 2.217854359552589
+	Movie name: Celebrity (1998), Truth rank value: 5, Predicted rank by the model: 3.3532090206411573
+	Movie name: Sheltering Sky, The (1990), Truth rank value: 3, Predicted rank by the model: 3.2121020074373607
+	Movie name: To Have, or Not (1995), Truth rank value: 3, Predicted rank by the model: 3.0492071560003446
+	Movie name: Picnic at Hanging Rock (1975), Truth rank value: 3, Predicted rank by the model: 3.535706546306151
+	Movie name: Snow White and the Seven Dwarfs (1937), Truth rank value: 4, Predicted rank by the model: 3.6031657956436893
+	Movie name: Celebration, The (Festen) (1998), Truth rank value: 3, Predicted rank by the model: 3.371252323457058
+	Movie name: Ghostbusters II (1989), Truth rank value: 3, Predicted rank by the model: 3.2695500220243026
+	Movie name: Quiet Room, The (1996), Truth rank value: 3, Predicted rank by the model: 2.4272324847305793
+	Movie name: Drop Dead Gorgeous (1999), Truth rank value: 1, Predicted rank by the model: 2.214523014545098
+	Movie name: 10 Things I Hate About You (1999), Truth rank value: 5, Predicted rank by the model: 3.5744484360724065
+	Movie name: Stardust Memories (1980), Truth rank value: 4, Predicted rank by the model: 3.673885621108293
+	Movie name: Desperado (1995), Truth rank value: 4, Predicted rank by the model: 3.8158424914369378
+	Movie name: Fog, The (1980), Truth rank value: 1, Predicted rank by the model: 2.824754888562746
+	Movie name: Creepshow 2 (1987), Truth rank value: 4, Predicted rank by the model: 2.5766300890651337
+	Movie name: And the Band Played On (1993), Truth rank value: 2, Predicted rank by the model: 2.968181581314521
+	Movie name: Guy (1996), Truth rank value: 3, Predicted rank by the model: 3.1863842373288307
+	Movie name: Alley Cats, The (1968), Truth rank value: 5, Predicted rank by the model: 3.6318453861476634
+	Movie name: Outside Ozona (1998), Truth rank value: 2, Predicted rank by the model: 3.0612683837632093
+	Movie name: Overnight Delivery (1996), Truth rank value: 5, Predicted rank by the model: 3.4381969261613037
+	Movie name: Stag (1997), Truth rank value: 4, Predicted rank by the model: 3.5040267624301498
+	Movie name: Raise the Red Lantern (1991), Truth rank value: 1, Predicted rank by the model: 3.069632424398039
+	Movie name: Deep Blue Sea (1999), Truth rank value: 3, Predicted rank by the model: 2.9825882596827857
+	Movie name: Runaway Bride (1999), Truth rank value: 4, Predicted rank by the model: 2.7817714957920003
+	Movie name: Whatever (1998), Truth rank value: 4, Predicted rank by the model: 3.6232367095875064
+	Movie name: Killing, The (1956), Truth rank value: 2, Predicted rank by the model: 3.022060401997114
+	Movie name: Plan 9 from Outer Space (1958), Truth rank value: 3, Predicted rank by the model: 3.0800069449981975
+	Movie name: Never Been Kissed (1999), Truth rank value: 4, Predicted rank by the model: 3.446988273994961
+	Movie name: Who's Harry Crumb? (1989), Truth rank value: 2, Predicted rank by the model: 2.979751185490248
+	Movie name: Titan A.E. (2000), Truth rank value: 1, Predicted rank by the model: 2.2077740024286947
+	Movie name: African Queen, The (1951), Truth rank value: 3, Predicted rank by the model: 3.4276926107375756
+	Movie name: For Whom the Bell Tolls (1943), Truth rank value: 4, Predicted rank by the model: 3.21986825035808
+	Movie name: Funhouse, The (1981), Truth rank value: 1, Predicted rank by the model: 2.8027173103382808
+	Movie name: Shallow Grave (1994), Truth rank value: 3, Predicted rank by the model: 3.634395521212541
+	Movie name: Lord of Illusions (1995), Truth rank value: 4, Predicted rank by the model: 3.5008697514678895
+	Movie name: Good Man in Africa, A (1994), Truth rank value: 3, Predicted rank by the model: 2.7541150530353984
+	Movie name: Homeward Bound II: Lost in San Francisco (1996), Truth rank value: 4, Predicted rank by the model: 4.0180015446137896
+	Movie name: Underworld (1997), Truth rank value: 3, Predicted rank by the model: 2.775416751213628
+	Movie name: Rosemary's Baby (1968), Truth rank value: 1, Predicted rank by the model: 2.7402726854673167
+	Movie name: Other Voices, Other Rooms (1997), Truth rank value: 4, Predicted rank by the model: 3.1484763830535782
+	Movie name: I Know What You Did Last Summer (1997), Truth rank value: 3, Predicted rank by the model: 3.238564160228897
+	Movie name: Alive (1993), Truth rank value: 1, Predicted rank by the model: 1.860071587464468
+	Movie name: Time Tracers (1995), Truth rank value: 3, Predicted rank by the model: 3.816611610789544
+	Movie name: Golden Child, The (1986), Truth rank value: 2, Predicted rank by the model: 2.6988796377827335
+	Movie name: Washington Square (1997), Truth rank value: 4, Predicted rank by the model: 3.6652548542735275
+	Movie name: Freaky Friday (1977), Truth rank value: 3, Predicted rank by the model: 2.3036346527158775
+	Movie name: Fatal Attraction (1987), Truth rank value: 1, Predicted rank by the model: 2.859862389585585
+	Movie name: Home Alone 2: Lost in New York (1992), Truth rank value: 2, Predicted rank by the model: 3.2635920473544155
+	Movie name: Callejón de los milagros, El (1995), Truth rank value: 3, Predicted rank by the model: 2.9706452302115185
+	Movie name: eXistenZ (1999), Truth rank value: 5, Predicted rank by the model: 3.670438556388279
+	Movie name: Keys to Tulsa (1997), Truth rank value: 3, Predicted rank by the model: 3.3328696015475945
+	Movie name: Come See the Paradise (1990), Truth rank value: 2, Predicted rank by the model: 2.893378185202849
+	Movie name: Beefcake (1999), Truth rank value: 4, Predicted rank by the model: 3.870093720891838
+	Movie name: Brother's Kiss, A (1997), Truth rank value: 3, Predicted rank by the model: 2.8640463030047068
+	Movie name: Tomorrow Never Dies (1997), Truth rank value: 1, Predicted rank by the model: 2.0941308133277126
+	Movie name: Twisted (1996), Truth rank value: 2, Predicted rank by the model: 2.3904311728517276
+	Movie name: Apartment, The (1960), Truth rank value: 4, Predicted rank by the model: 3.8315642625348083
+	Movie name: Out to Sea (1997), Truth rank value: 4, Predicted rank by the model: 2.958643278662529
+	Movie name: Home Fries (1998), Truth rank value: 3, Predicted rank by the model: 2.9496761296102694
+	Movie name: Empire Records (1995), Truth rank value: 3, Predicted rank by the model: 3.1466062068198704
+	Movie name: Sense and Sensibility (1995), Truth rank value: 3, Predicted rank by the model: 3.1193363344163862
+	Movie name: Legends of the Fall (1994), Truth rank value: 3, Predicted rank by the model: 3.3398736043503323
+	Movie name: East Palace West Palace (Dong gong xi gong) (1997), Truth rank value: 4, Predicted rank by the model: 3.107261080699256
+	Movie name: Something to Talk About (1995), Truth rank value: 3, Predicted rank by the model: 3.3408164726658987
+	Movie name: Three Musketeers, The (1993), Truth rank value: 4, Predicted rank by the model: 3.5201370199186344
+	Movie name: Temptress Moon (Feng Yue) (1996), Truth rank value: 4, Predicted rank by the model: 2.7873997763701315
+	Movie name: Reach the Rock (1997), Truth rank value: 4, Predicted rank by the model: 3.472121589752309
+	Movie name: Platoon (1986), Truth rank value: 5, Predicted rank by the model: 3.673598871934932
+	Movie name: Singles (1992), Truth rank value: 4, Predicted rank by the model: 3.2105804642360134
+	Movie name: My Fair Lady (1964), Truth rank value: 5, Predicted rank by the model: 3.903537072895878
+	Movie name: Mr. Magoo (1997), Truth rank value: 4, Predicted rank by the model: 3.23708239741221
+	Movie name: Final Destination (2000), Truth rank value: 3, Predicted rank by the model: 2.8488088786556593
+	Movie name: Heaven (1998), Truth rank value: 2, Predicted rank by the model: 3.0547374125401046
+	Movie name: My Life in Pink (Ma vie en rose) (1997), Truth rank value: 3, Predicted rank by the model: 2.6149895411275494
+	Movie name: Simple Plan, A (1998), Truth rank value: 4, Predicted rank by the model: 3.3908745085459273
+	Movie name: Great Expectations (1998), Truth rank value: 4, Predicted rank by the model: 3.6449802706624275
+	Movie name: Mariachi, El (1992), Truth rank value: 2, Predicted rank by the model: 3.208060240000677
+	Movie name: Stop! Or My Mom Will Shoot (1992), Truth rank value: 4, Predicted rank by the model: 3.270796576419151
+	Movie name: Gone with the Wind (1939), Truth rank value: 4, Predicted rank by the model: 3.5764575297119587
+	Movie name: Better Living Through Circuitry (1999), Truth rank value: 3, Predicted rank by the model: 3.034856665003892
+	Movie name: Shakespeare in Love (1998), Truth rank value: 5, Predicted rank by the model: 3.8691344440113364
+	Movie name: Free Willy 3: The Rescue (1997), Truth rank value: 1, Predicted rank by the model: 3.2175963054572776
+	Movie name: Taxman (1999), Truth rank value: 3, Predicted rank by the model: 2.615306003997606
+	Movie name: Airheads (1994), Truth rank value: 2, Predicted rank by the model: 2.9418108117501514
+	Movie name: Gambler, The (A Játékos) (1997), Truth rank value: 3, Predicted rank by the model: 2.9874056042466
+	Movie name: Opposite of Sex, The (1998), Truth rank value: 3, Predicted rank by the model: 3.044445320362681
+	Movie name: I Got the Hook Up (1998), Truth rank value: 4, Predicted rank by the model: 3.3454929437084084
+	Movie name: Dogma (1999), Truth rank value: 2, Predicted rank by the model: 2.376460979727353
+	Movie name: Clear and Present Danger (1994), Truth rank value: 4, Predicted rank by the model: 3.3150181976384627
+	Movie name: Life Is Beautiful (La Vita è bella) (1997), Truth rank value: 4, Predicted rank by the model: 3.700645003758982
+	Movie name: Crying Game, The (1992), Truth rank value: 2, Predicted rank by the model: 2.5924302953467024
+	Movie name: Germinal (1993), Truth rank value: 4, Predicted rank by the model: 3.563510465194629
+	Movie name: Sophie's Choice (1982), Truth rank value: 4, Predicted rank by the model: 3.5488788659552837
+	Movie name: Intimate Relations (1996), Truth rank value: 3, Predicted rank by the model: 3.0549662123710215
+	Movie name: Something for Everyone (1970), Truth rank value: 3, Predicted rank by the model: 3.1929974730489286
+	Movie name: I Married A Strange Person (1997), Truth rank value: 1, Predicted rank by the model: 1.9417104355152144
+	Movie name: Mr. Jones (1993), Truth rank value: 3, Predicted rank by the model: 3.4779205250609744
+	Movie name: To Wong Foo, Thanks for Everything! Julie Newmar (1995), Truth rank value: 2, Predicted rank by the model: 1.9880757522268753
+	Movie name: Dark City (1998), Truth rank value: 2, Predicted rank by the model: 3.0698950560321188
+	Movie name: Five Wives, Three Secretaries and Me (1998), Truth rank value: 4, Predicted rank by the model: 3.76882839410659
+	Movie name: Thomas Crown Affair, The (1999), Truth rank value: 3, Predicted rank by the model: 3.4648866104524427
+	Movie name: Trekkies (1997), Truth rank value: 4, Predicted rank by the model: 3.8500674488533675
+	Movie name: Labyrinth (1986), Truth rank value: 2, Predicted rank by the model: 3.200488443045692
+	Movie name: Mr. Saturday Night (1992), Truth rank value: 3, Predicted rank by the model: 3.092256625942442
+	Movie name: Manhattan (1979), Truth rank value: 3, Predicted rank by the model: 3.5200965559997486
+	Movie name: Land Girls, The (1998), Truth rank value: 4, Predicted rank by the model: 3.4198191538587297
+	Movie name: Cinema Paradiso (1988), Truth rank value: 4, Predicted rank by the model: 3.439776540406295
+	Movie name: Across the Sea of Time (1995), Truth rank value: 3, Predicted rank by the model: 3.4545856271542914
+_______________________________________________________________
+Movies that were in the test set:
+	Movie name: Melvin and Howard (1980), Truth rank value: 4, Predicted rank by the model: 3.275843849554821
+	Movie name: Only You (1994), Truth rank value: 2, Predicted rank by the model: 2.869066017295325
+	Movie name: Salut cousin! (1996), Truth rank value: 3, Predicted rank by the model: 3.112751597766432
+	Movie name: Billy Madison (1995), Truth rank value: 3, Predicted rank by the model: 3.252525385196173
+	Movie name: Spice World (1997), Truth rank value: 4, Predicted rank by the model: 3.8276333487483853
+	Movie name: I Dreamed of Africa (2000), Truth rank value: 2, Predicted rank by the model: 3.1085670995565278
+	Movie name: 8 1/2 (1963), Truth rank value: 5, Predicted rank by the model: 3.750706706034912
+	Movie name: Chuck & Buck (2000), Truth rank value: 2, Predicted rank by the model: 3.147938720802283
+	Movie name: My Own Private Idaho (1991), Truth rank value: 4, Predicted rank by the model: 3.012874483034004
+	Movie name: Criminal Lovers (Les Amants Criminels) (1999), Truth rank value: 3, Predicted rank by the model: 1.1345750264565846
+	Movie name: Metisse (Café au Lait) (1993), Truth rank value: 3, Predicted rank by the model: 3.767290487118272
+	Movie name: I Went Down (1997), Truth rank value: 3, Predicted rank by the model: 2.7053425218201896
+	Movie name: Sabrina (1995), Truth rank value: 2, Predicted rank by the model: 3.22731859843748
+	Movie name: American Movie (1999), Truth rank value: 3, Predicted rank by the model: 3.490014608498133
+	Movie name: Stop Making Sense (1984), Truth rank value: 4, Predicted rank by the model: 3.93318493672993
+	Movie name: Long Kiss Goodnight, The (1996), Truth rank value: 5, Predicted rank by the model: 3.6973882961204207
+	Movie name: Me Myself I (2000), Truth rank value: 2, Predicted rank by the model: 2.7926799706902177
+	Movie name: Sadness of Sex, The (1995), Truth rank value: 3, Predicted rank by the model: 3.6827790450020714
+	Movie name: Next Friday (1999), Truth rank value: 2, Predicted rank by the model: 3.0936840306957665
+	Movie name: Universal Soldier: The Return (1999), Truth rank value: 2, Predicted rank by the model: 1.6860183149769747
+	Movie name: Swimming with Sharks (1995), Truth rank value: 3, Predicted rank by the model: 3.181799328167874
+	Movie name: Alien (1979), Truth rank value: 5, Predicted rank by the model: 3.7160998520747
+	Movie name: Telling Lies in America (1997), Truth rank value: 3, Predicted rank by the model: 2.735925515740479
+	Movie name: FairyTale: A True Story (1997), Truth rank value: 2, Predicted rank by the model: 3.129350521839349
+	Movie name: Kundun (1997), Truth rank value: 4, Predicted rank by the model: 3.286673745015158
+	Movie name: Happy, Texas (1999), Truth rank value: 4, Predicted rank by the model: 3.5178575965391095
+	Movie name: Toy Story 2 (1999), Truth rank value: 1, Predicted rank by the model: 1.4227915397194024
+	Movie name: Billy's Hollywood Screen Kiss (1997), Truth rank value: 2, Predicted rank by the model: 3.3634337604039164
+	Movie name: Experience Preferred... But Not Essential (1982), Truth rank value: 3, Predicted rank by the model: 2.9685127129760245
+	Movie name: Breakdown (1997), Truth rank value: 4, Predicted rank by the model: 3.185815057718368
+	Movie name: Soft Fruit (1999), Truth rank value: 3, Predicted rank by the model: 2.4199560117817915
+	Movie name: Prisoner of the Mountains (Kavkazsky Plennik) (1996), Truth rank value: 4, Predicted rank by the model: 3.764670153355949
+	Movie name: Afterglow (1997), Truth rank value: 5, Predicted rank by the model: 3.436396850943019
+	Movie name: Mary Shelley's Frankenstein (1994), Truth rank value: 3, Predicted rank by the model: 3.4931310135862415
+	Movie name: Leaving Las Vegas (1995), Truth rank value: 1, Predicted rank by the model: 2.1848159427208396
+	Movie name: Shanghai Triad (Yao a yao yao dao waipo qiao) (1995), Truth rank value: 5, Predicted rank by the model: 3.811852527964809
+	Movie name: Cobb (1994), Truth rank value: 2, Predicted rank by the model: 2.9108940651589483
+	Movie name: Wings of Courage (1995), Truth rank value: 4, Predicted rank by the model: 3.5809388460515343
+	Movie name: Shower (Xizhao) (1999), Truth rank value: 3, Predicted rank by the model: 2.941068890463137
+	Movie name: Carrington (1995), Truth rank value: 4, Predicted rank by the model: 3.489864619105368
+	Movie name: Four Weddings and a Funeral (1994), Truth rank value: 1, Predicted rank by the model: 2.748542916253976
+	Movie name: Higher Learning (1995), Truth rank value: 2, Predicted rank by the model: 3.170333406122554
+	Movie name: Horseman on the Roof, The (Hussard sur le toit, Le) (1995), Truth rank value: 4, Predicted rank by the model: 3.627575656398947

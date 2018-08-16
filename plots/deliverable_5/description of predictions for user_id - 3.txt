@@ -1,0 +1,54 @@
+Movies that were in the train set:
+	Movie name: She's Gotta Have It (1986), Truth rank value: 4, Predicted rank by the model: 4.071340353233563
+	Movie name: Indian Summer (a.k.a. Alive & Kicking) (1996), Truth rank value: 2, Predicted rank by the model: 3.8435221426427075
+	Movie name: Tin Men (1987), Truth rank value: 4, Predicted rank by the model: 3.729917757879102
+	Movie name: American Psycho (2000), Truth rank value: 3, Predicted rank by the model: 3.3754123641598865
+	Movie name: Bridges of Madison County, The (1995), Truth rank value: 4, Predicted rank by the model: 3.96634186552263
+	Movie name: Brighton Beach Memoirs (1986), Truth rank value: 4, Predicted rank by the model: 3.295841676101375
+	Movie name: Wings of Desire (Der Himmel über Berlin) (1987), Truth rank value: 4, Predicted rank by the model: 4.2061003642317685
+	Movie name: Metro (1997), Truth rank value: 3, Predicted rank by the model: 2.8920704028103295
+	Movie name: Naked Gun 2 1/2: The Smell of Fear, The (1991), Truth rank value: 3, Predicted rank by the model: 3.501932587850454
+	Movie name: Monty Python's Life of Brian (1979), Truth rank value: 5, Predicted rank by the model: 3.989821563270832
+	Movie name: Peacemaker, The (1997), Truth rank value: 5, Predicted rank by the model: 3.8999027033296985
+	Movie name: Being There (1979), Truth rank value: 4, Predicted rank by the model: 4.341181075785446
+	Movie name: M (1931), Truth rank value: 5, Predicted rank by the model: 4.279323239235075
+	Movie name: Und keiner weint mir nach (1996), Truth rank value: 4, Predicted rank by the model: 3.6678732415158835
+	Movie name: Dance with Me (1998), Truth rank value: 5, Predicted rank by the model: 3.6919778405153916
+	Movie name: Out to Sea (1997), Truth rank value: 3, Predicted rank by the model: 3.8410245299112424
+	Movie name: Myth of Fingerprints, The (1997), Truth rank value: 2, Predicted rank by the model: 3.244019165322344
+	Movie name: Little Women (1994), Truth rank value: 5, Predicted rank by the model: 4.516390217703884
+	Movie name: Stop Making Sense (1984), Truth rank value: 4, Predicted rank by the model: 4.17471268654595
+	Movie name: Flawless (1999), Truth rank value: 3, Predicted rank by the model: 3.9327973215496903
+	Movie name: Looking for Richard (1996), Truth rank value: 4, Predicted rank by the model: 3.819467325657258
+	Movie name: Great Escape, The (1963), Truth rank value: 1, Predicted rank by the model: 3.0796101394188344
+	Movie name: Tombstone (1993), Truth rank value: 4, Predicted rank by the model: 3.679864347424704
+	Movie name: Kalifornia (1993), Truth rank value: 4, Predicted rank by the model: 3.8108044305014968
+	Movie name: Unforgiven (1992), Truth rank value: 2, Predicted rank by the model: 3.7444515915749594
+	Movie name: Princess Bride, The (1987), Truth rank value: 4, Predicted rank by the model: 4.289083192795876
+	Movie name: Tough and Deadly (1995), Truth rank value: 4, Predicted rank by the model: 4.121623172188478
+	Movie name: Celebrity (1998), Truth rank value: 5, Predicted rank by the model: 3.7784738348538505
+	Movie name: Raiders of the Lost Ark (1981), Truth rank value: 5, Predicted rank by the model: 4.382716550165821
+	Movie name: Brazil (1985), Truth rank value: 5, Predicted rank by the model: 4.479317485031727
+	Movie name: Young Guns II (1990), Truth rank value: 5, Predicted rank by the model: 3.976626994454064
+	Movie name: Snow White and the Seven Dwarfs (1937), Truth rank value: 3, Predicted rank by the model: 4.336663968440234
+	Movie name: Grease (1978), Truth rank value: 4, Predicted rank by the model: 3.5473605712847083
+	Movie name: Paris, Texas (1984), Truth rank value: 5, Predicted rank by the model: 4.287155678761812
+	Movie name: Crocodile Dundee II (1988), Truth rank value: 4, Predicted rank by the model: 3.7196086970035402
+	Movie name: Falcon and the Snowman, The (1984), Truth rank value: 4, Predicted rank by the model: 3.9090147574812275
+	Movie name: Castle, The (1997), Truth rank value: 2, Predicted rank by the model: 3.290320421450141
+	Movie name: Benji (1974), Truth rank value: 5, Predicted rank by the model: 4.131238651130909
+	Movie name: Polish Wedding (1998), Truth rank value: 4, Predicted rank by the model: 3.7363693359715655
+	Movie name: Lord of the Rings, The (1978), Truth rank value: 4, Predicted rank by the model: 4.0584014099338255
+	Movie name: Nightmare on Elm Street Part 2: Freddy's Revenge, A (1985), Truth rank value: 4, Predicted rank by the model: 4.093639792609263
+	Movie name: Hustler White (1996), Truth rank value: 5, Predicted rank by the model: 4.344026916246828
+	Movie name: Mighty Ducks, The (1992), Truth rank value: 4, Predicted rank by the model: 3.7551129237548966
+_______________________________________________________________
+Movies that were in the test set:
+	Movie name: Cold Fever (Á köldum klaka) (1994), Truth rank value: 3, Predicted rank by the model: 3.75988523263221
+	Movie name: Dreaming of Joseph Lees (1998), Truth rank value: 3, Predicted rank by the model: 3.7816401828911124
+	Movie name: Manchurian Candidate, The (1962), Truth rank value: 5, Predicted rank by the model: 4.063693978151012
+	Movie name: Getting Away With Murder (1996), Truth rank value: 5, Predicted rank by the model: 4.068321727157639
+	Movie name: Gossip (2000), Truth rank value: 5, Predicted rank by the model: 3.934344855099221
+	Movie name: Fried Green Tomatoes (1991), Truth rank value: 3, Predicted rank by the model: 4.099397375855188
+	Movie name: Driving Miss Daisy (1989), Truth rank value: 4, Predicted rank by the model: 4.226656226390498
+	Movie name: Excalibur (1981), Truth rank value: 4, Predicted rank by the model: 3.9745498470140825

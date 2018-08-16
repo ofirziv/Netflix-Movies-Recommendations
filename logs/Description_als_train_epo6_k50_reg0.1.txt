@@ -1,0 +1,14 @@
+Learning Algorithm: als
+Hyperparameter k: 50
+Number of epochs in training: 6
+Scale for the latent vectors initialization: 0.001
+Regularization term: 0.1
+
+Training time: 0:07:15.395182
+
+Metrics evaluations:
+	r@2: 1.2949610475716891e-06
+	r@10: 5.398142250995004e-05
+	rmse: 0.5900024707452717
+	p@2: 8.28775070445881e-05
+	p@10: 0.0001823305154980938

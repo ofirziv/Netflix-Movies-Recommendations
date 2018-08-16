@@ -1,0 +1,56 @@
+Movies that were in the train set:
+	Movie name: Up in Smoke (1978), Truth rank value: 5, Predicted rank by the model: 4.548865305525667
+	Movie name: Fear (1996), Truth rank value: 3, Predicted rank by the model: 3.481697484741138
+	Movie name: Sabrina (1954), Truth rank value: 3, Predicted rank by the model: 4.348920725250621
+	Movie name: Final Destination (2000), Truth rank value: 4, Predicted rank by the model: 4.261188008630779
+	Movie name: Celebrity (1998), Truth rank value: 5, Predicted rank by the model: 4.1022243728964
+	Movie name: Raiders of the Lost Ark (1981), Truth rank value: 3, Predicted rank by the model: 4.326916875816357
+	Movie name: This Is Spinal Tap (1984), Truth rank value: 5, Predicted rank by the model: 4.56971117308502
+	Movie name: Gone with the Wind (1939), Truth rank value: 4, Predicted rank by the model: 4.66403329257983
+	Movie name: Pinocchio (1940), Truth rank value: 5, Predicted rank by the model: 4.425125139161023
+	Movie name: Reluctant Debutante, The (1958), Truth rank value: 4, Predicted rank by the model: 3.979301178099743
+	Movie name: Santa Claus: The Movie (1985), Truth rank value: 4, Predicted rank by the model: 4.440410589771989
+	Movie name: Die Hard (1988), Truth rank value: 5, Predicted rank by the model: 4.5257270525223845
+	Movie name: Airplane II: The Sequel (1982), Truth rank value: 4, Predicted rank by the model: 4.255118031195478
+	Movie name: General's Daughter, The (1999), Truth rank value: 3, Predicted rank by the model: 3.946373112607821
+	Movie name: Come See the Paradise (1990), Truth rank value: 5, Predicted rank by the model: 4.195011329204524
+	Movie name: Halfmoon (Paul Bowles - Halbmond) (1995), Truth rank value: 3, Predicted rank by the model: 4.292032186323043
+	Movie name: Fried Green Tomatoes (1991), Truth rank value: 5, Predicted rank by the model: 4.285760579206719
+	Movie name: Scout, The (1994), Truth rank value: 5, Predicted rank by the model: 4.8333016841455105
+	Movie name: Dancing at Lughnasa (1998), Truth rank value: 3, Predicted rank by the model: 3.566476544525854
+	Movie name: When Night Is Falling (1995), Truth rank value: 5, Predicted rank by the model: 3.586112004001354
+	Movie name: Search for One-eye Jimmy, The (1996), Truth rank value: 4, Predicted rank by the model: 4.438689620556227
+	Movie name: Schizopolis (1996), Truth rank value: 4, Predicted rank by the model: 4.103526255553832
+	Movie name: Force of Evil (1948), Truth rank value: 3, Predicted rank by the model: 4.398887683114037
+	Movie name: Impostors, The (1998), Truth rank value: 4, Predicted rank by the model: 3.557097758171458
+	Movie name: Trans (1998), Truth rank value: 4, Predicted rank by the model: 3.8815679725242935
+	Movie name: Last Time I Committed Suicide, The (1997), Truth rank value: 4, Predicted rank by the model: 3.6754810177047834
+	Movie name: Terminator 2: Judgment Day (1991), Truth rank value: 4, Predicted rank by the model: 4.178521937834505
+	Movie name: Resurrection Man (1998), Truth rank value: 4, Predicted rank by the model: 4.201769899093776
+	Movie name: Cable Guy, The (1996), Truth rank value: 4, Predicted rank by the model: 3.8135928279870344
+	Movie name: Odd Couple II, The (1998), Truth rank value: 5, Predicted rank by the model: 3.7966437143112914
+	Movie name: Winnie the Pooh and the Blustery Day (1968), Truth rank value: 5, Predicted rank by the model: 4.390527258371784
+	Movie name: Rob Roy (1995), Truth rank value: 5, Predicted rank by the model: 4.3824304271741275
+	Movie name: Jumanji (1995), Truth rank value: 5, Predicted rank by the model: 4.409627592499342
+	Movie name: Driving Miss Daisy (1989), Truth rank value: 5, Predicted rank by the model: 4.39633970611817
+	Movie name: Take the Money and Run (1969), Truth rank value: 4, Predicted rank by the model: 4.272322140830439
+	Movie name: Trekkies (1997), Truth rank value: 4, Predicted rank by the model: 4.246308523356637
+	Movie name: Little Women (1994), Truth rank value: 4, Predicted rank by the model: 4.481801751778366
+	Movie name: Dumbo (1941), Truth rank value: 5, Predicted rank by the model: 4.4471670249511766
+	Movie name: Pete's Dragon (1977), Truth rank value: 5, Predicted rank by the model: 4.300024315143727
+	Movie name: Apocalypse Now (1979), Truth rank value: 4, Predicted rank by the model: 4.678330198196176
+	Movie name: Billy's Hollywood Screen Kiss (1997), Truth rank value: 5, Predicted rank by the model: 4.607492434400452
+	Movie name: Serial Mom (1994), Truth rank value: 4, Predicted rank by the model: 4.0439970063517094
+	Movie name: Flawless (1999), Truth rank value: 4, Predicted rank by the model: 4.366872137128049
+	Movie name: Homeward Bound II: Lost in San Francisco (1996), Truth rank value: 4, Predicted rank by the model: 4.420674469280381
+_______________________________________________________________
+Movies that were in the test set:
+	Movie name: Mickey Blue Eyes (1999), Truth rank value: 5, Predicted rank by the model: 4.478643006540909
+	Movie name: Beauty and the Beast (1991), Truth rank value: 4, Predicted rank by the model: 4.2967049482157265
+	Movie name: Year of Living Dangerously (1982), Truth rank value: 4, Predicted rank by the model: 4.339885883810227
+	Movie name: Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954), Truth rank value: 4, Predicted rank by the model: 4.474210926329423
+	Movie name: Problem Child (1990), Truth rank value: 4, Predicted rank by the model: 4.226785976886738
+	Movie name: Soldier (1998), Truth rank value: 3, Predicted rank by the model: 3.8218021554158965
+	Movie name: Tomorrow Never Dies (1997), Truth rank value: 4, Predicted rank by the model: 4.314198683432348
+	Movie name: Thomas Crown Affair, The (1999), Truth rank value: 4, Predicted rank by the model: 4.627937461553793
+	Movie name: Graduate, The (1967), Truth rank value: 4, Predicted rank by the model: 4.300535103467371
